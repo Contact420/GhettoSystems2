@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local config
+local.properties
+
+# IDE
+.idea/
+*.iml
+.cxx/
+
+# Android
+captures/
+.externalNativeBuild/
+*.apk
+*.ap_
+*.dex
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Secrets
+*.jks
+*.keystore
+google-services.json
+# Local logs
+emulator-start.log*
+*.log
